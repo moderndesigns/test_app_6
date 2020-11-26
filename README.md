@@ -2,7 +2,7 @@
 
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. First Test repo on the complete ruby on rails developer account 
 
 Things you may want to cover:
 
